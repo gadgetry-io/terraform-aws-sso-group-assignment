@@ -2,7 +2,7 @@
 
 [Gadgetry's](https://gadgetry.io) Terraform AWS SSO Group Assignment Module
 
-This module is designed to be used with Gadgetry's [terraform-aws-sso-permission-set](https://github.com/gadgetry-io/terraform-aws-sso-permission-set) module. If you are using an SSO External Identity Provider (IdP) with SCIM enabled the `group_name` would be the groups you are importing from your dP into AWS Single Sign-On (SSO).
+This module is designed to be used with Gadgetry's [terraform-aws-sso-permission-set](https://github.com/gadgetry-io/terraform-aws-sso-permission-set) module. If you are using an SSO External Identity Provider (IdP) with SCIM enabled the `group_name` would be the groups you are importing from your IdP into AWS Single Sign-On (SSO).
 
 ## Usage
 
